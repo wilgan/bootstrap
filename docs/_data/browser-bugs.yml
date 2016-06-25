@@ -160,6 +160,16 @@
 
 -
   browser: >
+    Firefox
+  summary: >
+    Implement the HTML5 `<dialog>` element
+  upstream_bug: >
+    Mozilla#840640
+  origin: >
+    Bootstrap#20175
+
+-
+  browser: >
     Firefox (Windows)
   summary: >
     Right border of `<select>` menu is sometimes missing when screen is set to uncommon resolution
@@ -297,6 +307,16 @@
     WebKit#64861
   origin: >
     Bootstrap#19984
+
+-
+  browser: >
+    Safari
+  summary: >
+    Implement the HTML5 `<dialog>` element
+  upstream_bug: >
+    WebKit#84635
+  origin: >
+    Bootstrap#20175
 
 -
   browser: >
